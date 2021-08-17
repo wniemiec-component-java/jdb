@@ -1,7 +1,7 @@
 ![](https://github.com/wniemiec-component-java/jdb/blob/master/docs/img/logo/logo.jpg)
 
 <h1 align='center'>JDB</h1>
-<p align='center'>Simple API for JBD (Java debugger).</p>
+<p align='center'>Simple API for JDB (Java debugger).</p>
 <p align="center">
 	<a href="https://github.com/wniemiec-component-java/jdb/actions/workflows/windows.yml"><img src="https://github.com/wniemiec-component-java/jdb/actions/workflows/windows.yml/badge.svg" alt=""></a>
 	<a href="https://github.com/wniemiec-component-java/jdb/actions/workflows/macos.yml"><img src="https://github.com/wniemiec-component-java/jdb/actions/workflows/macos.yml/badge.svg" alt=""></a>

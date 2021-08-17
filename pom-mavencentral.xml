@@ -6,10 +6,10 @@
 
   <groupId>io.github.wniemiec-component-java</groupId>
   <artifactId>jdb</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 
   <name>JDB</name>
-  <description>Simple API for JBD (Java debugger).</description>
+  <description>Simple API for JDB (Java debugger).</description>
   <url>https://github.com/wniemiec-component-java/jdb</url>
 
   <properties>
